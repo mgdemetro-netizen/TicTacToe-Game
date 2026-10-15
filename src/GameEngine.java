@@ -112,3 +112,4 @@ board[i][j] = '-';
         return currentPlayer;
     }
 // Score tracking logic
+// Patched NPE during initial setup
