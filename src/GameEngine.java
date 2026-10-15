@@ -111,3 +111,4 @@ board[i][j] = '-';
     public char getCurrentPlayer() {
         return currentPlayer;
     }
+// Score tracking logic
